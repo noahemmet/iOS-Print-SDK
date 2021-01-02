@@ -32,3 +32,6 @@ Gemfile.lock
 /Kite-SDK/.idea
 /Carthage
 /Kite-SDK/KitePrintSDK.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+
+# Swift Package Manager
+/.swiftpm
